@@ -1,5 +1,7 @@
 # PCA_GUI
-A beautiful UX/UI design PCA visualization tool
+This project is a web application that provides a user-friendly interface for visualizing Principal Component Analysis (PCA) results. It allows users to upload datasets, perform PCA, and visualize the results interactively.
+
+![PCA GUI](https://raw.githubusercontent.com/lexin-chen/PCA_GUI/main/assets/img.png)
 
 # How to run
 Copy the repo to your local machine.
