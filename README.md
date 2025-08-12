@@ -1,4 +1,4 @@
-# PCA_GUI
+# N-Ary Mapping Interface (NAMI)
 This project is a web application that provides a user-friendly interface for visualizing Principal Component Analysis (PCA) results. It allows users to upload datasets, perform PCA, and visualize the results interactively.
 
 ![PCA GUI](https://raw.githubusercontent.com/lexin-chen/PCA_GUI/main/assets/img.png)
